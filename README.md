@@ -1,68 +1,16 @@
 <p align="center">
-  <a href="https://www.chromatic.com/">
-    <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
-  </a>
+<img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
 </p>
 
 <h1 align="center">
-  Chromatic's Intro to Storybook React template
+  Storybook React Components for AGI
 </h1>
 
-This template ships with the main React and Storybook configuration files you'll need to get up and running fast.
+React Components for AGI.
 
-## 🚅 Quick start
 
-1.  **Create the application.**
+## 🔎 Repo Folder Structure
 
-    Use [degit](https://github.com/Rich-Harris/degit) to get this template.
-
-    ```shell
-    # Clone the template
-    npx degit chromaui/intro-storybook-react-template taskbox
-    ```
-
-1.  **Install the dependencies.**
-
-    Navigate into your new site’s directory and install the necessary dependencies.
-
-    ```shell
-    # Navigate to the directory
-    cd taskbox/
-
-    # Install the dependencies
-    yarn
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Open the `taskbox` directory in your code editor of choice and building your first component!
-
-1.  **Browse your stories!**
-
-    Run `yarn storybook` to see your component's stories at `http://localhost:6006`
-
-## 🔎 What's inside?
-
-A quick look at the top-level files and directories included with this template.
-
-    .
-    ├── .storybook
-    ├── .yarn
-    ├── node_modules
-    ├── public
-    ├── src
-    ├── .eslintrc.cjs
-    ├── .gitignore
-    ├── .yarnrc.yml
-    ├── index.html
-    ├── LICENSE
-    ├── package.json
-    ├── tsconfig.app.json
-    ├── tsconfig.json
-    ├── tsconfig.node.json
-    ├── yarn.lock
-    ├── vite.config.js
-    └── README.md
 
 1.  **`.storybook`**: This directory contains Storybook's [configuration](https://storybook.js.org/docs/configure) files.
 
@@ -100,12 +48,7 @@ A quick look at the top-level files and directories included with this template.
 
 18. **`README.md`**: A text file containing useful reference information about the project.
 
-## Contribute
+## Components List.
 
-If you encounter an issue with the template, we encourage you to open an issue in this template's repository.
-
-## Learning Storybook
-
-1. Read our introductory tutorial at [Learn Storybook](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/).
-2. Learn how to transform your component libraries into design systems in our [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/) tutorial.
-3. See our official documentation at [Storybook](https://storybook.js.org/).
+- Component a
+- Component b
